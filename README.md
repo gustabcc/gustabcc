@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f3d915&height=120&section=header"/>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f3d915&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gustavo+Henrique;I'm+22+years+old;I'm+from+Brazil;I+student+Science+Computer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gustabcc&bg_color=ff9e9dc&color=ff3d7f&line=ff3d7f&point=ff3d7f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -22,4 +20,3 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{gustabcc}/count.svg" /></p> 
 <br>
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f3d915&height=120&section=footer"/>
